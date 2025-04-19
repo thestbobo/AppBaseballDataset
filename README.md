@@ -1,3 +1,5 @@
+Applicazione per l'analisi del dataset lahmansbaseballdb_small:
+
 Si consideri il database contenuto nel file lahmansbaseballdb_small.sql, presente nella cartella “db” del progetto.
 La struttura del database consiste di quattro tabelle principali: teams: lista di tutte le squadre iscritte al campionato
 per ogni anno dal 1871 al 2019; people: lista che raccoglie i dettagli dei giocatori professionisti; appearances: lista delle
